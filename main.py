@@ -1,4 +1,5 @@
 def greet():
-    print("hello")
+    greeting = 'hello'
+    print(greeting)
 
 greet()
